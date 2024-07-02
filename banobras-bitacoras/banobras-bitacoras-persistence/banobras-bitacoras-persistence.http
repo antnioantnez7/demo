@@ -1,0 +1,6 @@
+@banobras_bitacoras_persistence_HostAddress = http://localhost:5190
+
+GET {{banobras_bitacoras_persistence_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
