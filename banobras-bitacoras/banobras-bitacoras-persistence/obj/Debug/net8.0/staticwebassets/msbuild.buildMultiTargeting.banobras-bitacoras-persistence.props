@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\banobras-bitacoras-persistence.props" />
+</Project>

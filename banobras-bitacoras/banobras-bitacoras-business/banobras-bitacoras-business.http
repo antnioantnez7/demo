@@ -1,0 +1,6 @@
+@banobras_bitacoras_business_HostAddress = http://localhost:5095
+
+GET {{banobras_bitacoras_business_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\banobras-bitacoras-persistence.props" />
+</Project>
