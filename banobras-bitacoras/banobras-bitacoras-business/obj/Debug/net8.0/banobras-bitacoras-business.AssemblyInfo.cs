@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("banobras-bitacoras-business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afba64a9ddd550ae3cb19bf6c1fadda445ae1587")]
 [assembly: System.Reflection.AssemblyProductAttribute("banobras-bitacoras-business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("banobras-bitacoras-business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

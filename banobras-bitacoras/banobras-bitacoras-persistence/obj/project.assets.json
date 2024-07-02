@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tereso Antunez\\OneDrive - Maincore SA de CV MCO180917ED9\\Documentos\\banobras-bitacoras\\banobras-bitacoras-persistence\\banobras-bitacoras-persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Tereso Antunez\\demo\\banobras-bitacoras\\banobras-bitacoras-persistence\\banobras-bitacoras-persistence.csproj",
       "projectName": "banobras-bitacoras-persistence",
-      "projectPath": "C:\\Users\\Tereso Antunez\\OneDrive - Maincore SA de CV MCO180917ED9\\Documentos\\banobras-bitacoras\\banobras-bitacoras-persistence\\banobras-bitacoras-persistence.csproj",
+      "projectPath": "C:\\Users\\Tereso Antunez\\demo\\banobras-bitacoras\\banobras-bitacoras-persistence\\banobras-bitacoras-persistence.csproj",
       "packagesPath": "C:\\Users\\Tereso Antunez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tereso Antunez\\OneDrive - Maincore SA de CV MCO180917ED9\\Documentos\\banobras-bitacoras\\banobras-bitacoras-persistence\\obj\\",
+      "outputPath": "C:\\Users\\Tereso Antunez\\demo\\banobras-bitacoras\\banobras-bitacoras-persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tereso Antunez\\AppData\\Roaming\\NuGet\\NuGet.Config",

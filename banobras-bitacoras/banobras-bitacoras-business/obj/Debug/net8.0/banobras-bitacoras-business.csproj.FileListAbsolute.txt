@@ -30,3 +30,36 @@ C:\Users\Tereso Antunez\OneDrive - Maincore SA de CV MCO180917ED9\Documentos\ban
 C:\Users\Tereso Antunez\OneDrive - Maincore SA de CV MCO180917ED9\Documentos\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\banobras-bitacoras-business.pdb
 C:\Users\Tereso Antunez\OneDrive - Maincore SA de CV MCO180917ED9\Documentos\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\banobras-bitacoras-business.genruntimeconfig.cache
 C:\Users\Tereso Antunez\OneDrive - Maincore SA de CV MCO180917ED9\Documentos\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\ref\banobras-bitacoras-business.dll
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\bin\Debug\net8.0\appsettings.json
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\bin\Debug\net8.0\banobras-bitacoras-business.exe
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\bin\Debug\net8.0\banobras-bitacoras-business.deps.json
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\bin\Debug\net8.0\banobras-bitacoras-business.runtimeconfig.json
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\bin\Debug\net8.0\banobras-bitacoras-business.dll
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\bin\Debug\net8.0\banobras-bitacoras-business.pdb
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\banobras-bitacoras-business.csproj.AssemblyReference.cache
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\banobras-bitacoras-business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\banobras-bitacoras-business.AssemblyInfoInputs.cache
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\banobras-bitacoras-business.AssemblyInfo.cs
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\banobras-bitacoras-business.csproj.CoreCompileInputs.cache
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\banobras-bitacoras-business.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\banobras-bitacoras-business.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\banobras-bitacoras-business.sourcelink.json
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\staticwebassets\msbuild.banobras-bitacoras-business.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\staticwebassets\msbuild.build.banobras-bitacoras-business.props
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.banobras-bitacoras-business.props
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.banobras-bitacoras-business.props
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\scopedcss\bundle\banobras-bitacoras-business.styles.css
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\banobras.C83A3117.Up2Date
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\banobras-bitacoras-business.dll
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\refint\banobras-bitacoras-business.dll
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\banobras-bitacoras-business.pdb
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\banobras-bitacoras-business.genruntimeconfig.cache
+C:\Users\Tereso Antunez\demo\banobras-bitacoras\banobras-bitacoras-business\obj\Debug\net8.0\ref\banobras-bitacoras-business.dll
