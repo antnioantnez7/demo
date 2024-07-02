@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7C+6q266ELpenQaLlXPOtNwnsRtU3OWagK9YBwwDZuugTj3p0ok2KR6cCH6+V9jw97+DDWTIdLXIHe9sxqjTwg==",
+  "dgSpecHash": "ra50JckbRcnSwtUcrEEQ23Q1XJB7iAFfz1Jfb608vHXTeLoaom+NBhKZSg9NVLUWUTrwbdyGVjevNmrIuhoxIw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tereso Antunez\\OneDrive - Maincore SA de CV MCO180917ED9\\Documentos\\banobras-bitacoras\\banobras-bitacoras-business\\banobras-bitacoras-business.csproj",
+  "projectFilePath": "C:\\Users\\Tereso Antunez\\demo\\banobras-bitacoras\\banobras-bitacoras-business\\banobras-bitacoras-business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tereso Antunez\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Tereso Antunez\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

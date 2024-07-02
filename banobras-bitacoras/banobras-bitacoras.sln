@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "banobras-bitacoras-business", "banobras-bitacoras-business\banobras-bitacoras-business.csproj", "{02F1024C-045F-4446-B382-01CFC385A8F0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "banobras-bitacoras-persistence", "banobras-bitacoras-persistence\banobras-bitacoras-persistence.csproj", "{AAE40616-CEFE-40B1-BE2A-99E8B7F2ED9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "banobras-bitacoras-business", "banobras-bitacoras-business\banobras-bitacoras-business.csproj", "{02F1024C-045F-4446-B382-01CFC385A8F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{02F1024C-045F-4446-B382-01CFC385A8F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02F1024C-045F-4446-B382-01CFC385A8F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02F1024C-045F-4446-B382-01CFC385A8F0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AAE40616-CEFE-40B1-BE2A-99E8B7F2ED9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AAE40616-CEFE-40B1-BE2A-99E8B7F2ED9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AAE40616-CEFE-40B1-BE2A-99E8B7F2ED9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AAE40616-CEFE-40B1-BE2A-99E8B7F2ED9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

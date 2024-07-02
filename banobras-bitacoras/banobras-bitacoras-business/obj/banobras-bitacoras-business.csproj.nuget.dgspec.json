@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tereso Antunez\\OneDrive - Maincore SA de CV MCO180917ED9\\Documentos\\banobras-bitacoras\\banobras-bitacoras-business\\banobras-bitacoras-business.csproj": {}
+    "C:\\Users\\Tereso Antunez\\demo\\banobras-bitacoras\\banobras-bitacoras-business\\banobras-bitacoras-business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tereso Antunez\\OneDrive - Maincore SA de CV MCO180917ED9\\Documentos\\banobras-bitacoras\\banobras-bitacoras-business\\banobras-bitacoras-business.csproj": {
+    "C:\\Users\\Tereso Antunez\\demo\\banobras-bitacoras\\banobras-bitacoras-business\\banobras-bitacoras-business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tereso Antunez\\OneDrive - Maincore SA de CV MCO180917ED9\\Documentos\\banobras-bitacoras\\banobras-bitacoras-business\\banobras-bitacoras-business.csproj",
+        "projectUniqueName": "C:\\Users\\Tereso Antunez\\demo\\banobras-bitacoras\\banobras-bitacoras-business\\banobras-bitacoras-business.csproj",
         "projectName": "banobras-bitacoras-business",
-        "projectPath": "C:\\Users\\Tereso Antunez\\OneDrive - Maincore SA de CV MCO180917ED9\\Documentos\\banobras-bitacoras\\banobras-bitacoras-business\\banobras-bitacoras-business.csproj",
+        "projectPath": "C:\\Users\\Tereso Antunez\\demo\\banobras-bitacoras\\banobras-bitacoras-business\\banobras-bitacoras-business.csproj",
         "packagesPath": "C:\\Users\\Tereso Antunez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tereso Antunez\\OneDrive - Maincore SA de CV MCO180917ED9\\Documentos\\banobras-bitacoras\\banobras-bitacoras-business\\obj\\",
+        "outputPath": "C:\\Users\\Tereso Antunez\\demo\\banobras-bitacoras\\banobras-bitacoras-business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tereso Antunez\\AppData\\Roaming\\NuGet\\NuGet.Config",
